@@ -1,0 +1,15 @@
+C:\Users\79628\Desktop\homework_4\27_HELP\bin\Debug\net6.0\27_HELP.exe
+C:\Users\79628\Desktop\homework_4\27_HELP\bin\Debug\net6.0\27_HELP.deps.json
+C:\Users\79628\Desktop\homework_4\27_HELP\bin\Debug\net6.0\27_HELP.runtimeconfig.json
+C:\Users\79628\Desktop\homework_4\27_HELP\bin\Debug\net6.0\27_HELP.dll
+C:\Users\79628\Desktop\homework_4\27_HELP\bin\Debug\net6.0\27_HELP.pdb
+C:\Users\79628\Desktop\homework_4\27_HELP\obj\Debug\net6.0\27_HELP.csproj.AssemblyReference.cache
+C:\Users\79628\Desktop\homework_4\27_HELP\obj\Debug\net6.0\27_HELP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79628\Desktop\homework_4\27_HELP\obj\Debug\net6.0\27_HELP.AssemblyInfoInputs.cache
+C:\Users\79628\Desktop\homework_4\27_HELP\obj\Debug\net6.0\27_HELP.AssemblyInfo.cs
+C:\Users\79628\Desktop\homework_4\27_HELP\obj\Debug\net6.0\27_HELP.csproj.CoreCompileInputs.cache
+C:\Users\79628\Desktop\homework_4\27_HELP\obj\Debug\net6.0\27_HELP.dll
+C:\Users\79628\Desktop\homework_4\27_HELP\obj\Debug\net6.0\refint\27_HELP.dll
+C:\Users\79628\Desktop\homework_4\27_HELP\obj\Debug\net6.0\27_HELP.pdb
+C:\Users\79628\Desktop\homework_4\27_HELP\obj\Debug\net6.0\27_HELP.genruntimeconfig.cache
+C:\Users\79628\Desktop\homework_4\27_HELP\obj\Debug\net6.0\ref\27_HELP.dll
